@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.sapient.app.AppTest" time="0.013" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.sapient.app.AppTest" time="0.011" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\visjorri\PS_QE_OCT\simple-maven-project\target\test-classes;C:\Users\visjorri\PS_QE_OCT\simple-maven-project\target\classes;C:\Users\visjorri\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\visjorri\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\visjorri\PS_QE_OCT\sample-maven-project\target\test-classes;C:\Users\visjorri\PS_QE_OCT\sample-maven-project\target\classes;C:\Users\visjorri\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\visjorri\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -17,9 +17,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.16\bin"/>
-    <property name="sun.java.command" value="C:\Users\visjorri\AppData\Local\Temp\surefire13460065138245008421\surefirebooter18275603566553244649.jar C:\Users\visjorri\AppData\Local\Temp\surefire13460065138245008421 2023-01-02T12-23-29_772-jvmRun1 surefire6141266069920485318tmp surefire_016898486623041368734tmp"/>
+    <property name="sun.java.command" value="C:\Users\visjorri\AppData\Local\Temp\surefire12764880907921177370\surefirebooter991325170624732756.jar C:\Users\visjorri\AppData\Local\Temp\surefire12764880907921177370 2023-01-02T14-08-08_771-jvmRun1 surefire16346918339005197263tmp surefire_06862729464838178822tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\visjorri\PS_QE_OCT\simple-maven-project\target\test-classes;C:\Users\visjorri\PS_QE_OCT\simple-maven-project\target\classes;C:\Users\visjorri\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\visjorri\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\visjorri\PS_QE_OCT\sample-maven-project\target\test-classes;C:\Users\visjorri\PS_QE_OCT\sample-maven-project\target\classes;C:\Users\visjorri\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\visjorri\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\visjorri"/>
     <property name="user.language" value="en"/>
@@ -28,13 +28,13 @@
     <property name="java.home" value="C:\Program Files\Java\jdk-11.0.16"/>
     <property name="file.separator" value="\"/>
     <property name="style.color" value="always"/>
-    <property name="basedir" value="C:\Users\visjorri\PS_QE_OCT\simple-maven-project"/>
+    <property name="basedir" value="C:\Users\visjorri\PS_QE_OCT\sample-maven-project"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\visjorri\AppData\Local\Temp\surefire13460065138245008421\surefirebooter18275603566553244649.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\visjorri\AppData\Local\Temp\surefire12764880907921177370\surefirebooter991325170624732756.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.16+11-LTS-199"/>
@@ -49,7 +49,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\visjorri\AppData\Local\Temp\"/>
     <property name="java.version" value="11.0.16"/>
-    <property name="user.dir" value="C:\Users\visjorri\PS_QE_OCT\simple-maven-project"/>
+    <property name="user.dir" value="C:\Users\visjorri\PS_QE_OCT\sample-maven-project"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
@@ -61,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.sapient.app.AppTest" time="0.003"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.sapient.app.AppTest" time="0.004"/>
 </testsuite>
